@@ -1,9 +1,9 @@
 step 1:
-git --version
-
-step 2:
 sudo apt update
 sudo apt install git
+
+step 2:
+git --version
 
 step 3:
 git config --global user.name "Your Name"
